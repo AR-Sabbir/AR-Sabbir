@@ -20,7 +20,7 @@
 <p><br></p>
 <p align="center">
   <a href="https://coderjibon.com/" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderjibon" /></a> 
-  <a href="https://www.linkedin.com/in/jibon-roy-a3948219a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="coderjibon"/></a>
+  <a href="https://www.linkedin.com/in/ar-sabbir-05bb12246/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="coderjibon"/></a>
     <a href="https://join.skype.com/invite/BLnlj2fzcVMv" target="blank"><img src="https://img.shields.io/badge/skype-20BEFF?&style=for-the-badge&logo=skype&logoColor=white" alt="coderjibon" /></a> 
     <a href="https://wa.me/qr/CI7OHSI4Q6O3F1" target="blank"><img src="https://img.shields.io/badge/whatsapp-20BEFF?&style=for-the-badge&logo=skype&logoColor=white" alt="coderjibon" /></a> 
     
